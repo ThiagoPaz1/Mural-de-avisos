@@ -22,5 +22,3 @@
     HTML5
   </li>
 </ul>
-<h3>Link da aplicação</h3>
-<a href="https://gamegenius.netlify.app/">Clique aqui!</a>
