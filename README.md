@@ -3,7 +3,7 @@
 <p>
   Aplicação web para adicionar avisos em um mural.
 </p>
-<img src="ezgif.com-gif-maker (1).gif"/>
+<img src="ezgif.com-gif-maker.gif"/>
 <h3>Tecnologias utilizadas:</h3>
 <ul>
   <li>
