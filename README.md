@@ -7,10 +7,16 @@
 <h3>Tecnologias utilizadas:</h3>
 <ul>
   <li>
+    Expressjs 
+  </li>
+  <li>
+    Nodejs 
+  </li>
+  <li>
     Javascript 
   </li>
   <li>
-    CSS3
+    Boostrap
   </li>
   <li>
     HTML5
