@@ -16,7 +16,7 @@
     Javascript 
   </li>
   <li>
-    Boostrap
+    Bootstrap
   </li>
   <li>
     HTML5
